@@ -5,5 +5,6 @@ Integer converter is the program of functions in dealing with integers, which ar
 
 Jiang, H. (2022, June 2). Some Modulo Sequence Ciphers. Retrieved from osf.io/f63je 
 
-(2) See "Python File/Instruction of Integer Converter (Python).pdf" for the detials of the functions in the Python program; the latest version of the python file is v. 0.1.0, "Python File/v 0.1.0/integer_converter.py".
+(2) See "Python File/Instruction of Integer Converter (Python).pdf" for the detials of the functions in the Python program; the latest version of the Python file is v. 0.1.1, "Python File/v 0.1.1/integer_converter.py".
 
+(2) See "Python File/Instruction of Integer Converter (R).pdf" for the detials of the functions in the R program; the latest version of the R file is v. 0.1.1, "R File/v 0.1.1/integer_converter.r".
