@@ -1,4 +1,4 @@
-# Integer-Convertor-and-n-plus-one-Layer-Encryption
+# Integer-Convertor
 Integer converter is the program of functions in dealing with integers, which are of large number of digits. 
 
 (1) This program includes the functions in calculation of arithmetic-modulo sequence with complete root, calculation of type-1 geometric-modulo sequence with primitive root, calculation of power-modulo sequence with complete root. These 3 modulo sequences are from the paper "Some Modulo Sequences and Cipher Techniques Based on the Modulo Sequences" done by Hao Jiang (2022) in the following project.
